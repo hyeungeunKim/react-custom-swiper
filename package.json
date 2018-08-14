@@ -1,7 +1,7 @@
 {
-  "name": "react-id-swiper-custom-fix",
+  "name": "react-id-swiper-custom-fixed-hg",
   "version": "1.0.1",
-  "description": "react-id-swiper-custom-fix",
+  "description": "react-id-swiper-custom-fixed-hg",
   "main": "lib/index",
   "scripts": {
     "build:lib": "rm -rf lib/* && babel src -d lib",

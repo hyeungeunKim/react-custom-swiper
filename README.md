@@ -4,7 +4,7 @@
 
 [![Package Quality](http://npm.packagequality.com/badge/react-id-swiper.png)](http://packagequality.com/#?package=react-id-swiper)
 
-react-id-swiper ( Newest version 1.6.6 )
+react-id-swiper ( Bug Fix version "centeredSlides : center" )
 ========================================
 > A library to use [Swiper](http://www.idangero.us/swiper/get-started/) as a ReactJs component
 > (Providing lightweight version of Swiper which reduces ~40kb of minified size)

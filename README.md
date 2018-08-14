@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# react-custom-swiper
-=======
 [![npm Version](https://img.shields.io/npm/v/react-id-swiper.svg?style=flat-square)](https://npmjs.org/package/react-id-swiper)
 [![Coverage Status](https://img.shields.io/codecov/c/github/moroshko/react-autosuggest/master.svg?style=flat-square)](https://codecov.io/gh/kidjp85/react-id-swiper)
 [![npm Downloads](https://img.shields.io/npm/dm/react-id-swiper.svg?style=flat-square)](https://npmjs.org/package/react-id-swiper)
@@ -301,4 +298,3 @@ yarn test --watch
 ## License
 
 MIT
->>>>>>> init
